@@ -1,0 +1,14 @@
+Summarizes the analysis (5 points)
+
+The analysis first summarizes the indicators learned by school name, then identifies the best and worst performing schools by sorting them, then calculates the average performance in math and reading by grade level, and finally shows the performance of the school's students in terms of school spending, school size, and school type.
+
+
+
+Draws two correct conclusions or comparisons from the calculations (10 points)
+
+
+The Charter type of school has significantly higher student academic achievement than the District type of school.
+
+According to the size of the school. Student academic achievement is higher in medium-sized schools (school size<1000), followed by small schools (school size：1000-2000), and finally large schools (school size：2000-5000).
+
+Student academic performance is inversely proportional to student spends. This means that the lower the student's spending the higher the student's academic performance.
